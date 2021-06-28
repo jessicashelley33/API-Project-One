@@ -1,0 +1,131 @@
+/* 
+background-color for headings 
+*/
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand{
+    margin-left: 2.5rem;
+    color:#d97777;
+    font-size: 1.5rem;
+}
+
+.nav-link, 
+.text-color {
+    color:#d97777;
+}
+
+.nav-link:hover,
+.navbar-brand:hover{
+    color:#d9b277;
+}
+
+.nav-link:visited,
+.navbar-brand:visited{
+    color:#824747;
+}
+
+.hero-section{
+        background: url("img/heroImg.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        min-height: 80vh;
+        min-width: 80vw;
+        padding: 14rem;
+        position: relative;
+        opacity:0.92;
+        object-fit: contain;
+    }
+
+    .hero-text{
+        font-weight: 900;
+        color:#f7e3e3;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        
+        }
+    .heroTextH1 {
+        font-size: 6rem;
+    }
+
+
+.circleIcon{
+   font-size: 4rem;
+    color:#d99e77;
+    
+}
+
+.galleryImage{
+    max-width: 100%; 
+    border:#d97777 solid 6px;
+    border-radius: 15px;
+    margin-top: 6rem;
+}
+
+.social-media-container {
+        margin-top: 4rem;
+        background-color:#d97777;
+        padding: 2.5rem;
+}
+
+.text-heading{
+    color:#d9b277;
+}
+
+.social-media-icons{
+    color:#d9b277;
+    font-size:5rem;
+    
+
+}
+
+.container-form{
+    margin: 0 auto;
+    max-width: 50%;
+
+}
+
+.centerBtn{
+    background-color:#d9b277;
+    color: #fff;
+}
+
+.centerBtn:hover{
+    background-color:#d97777;
+    color:#fff;
+}
+
+.btn {
+    background-color:#d97777;
+    color:#fff;
+    margin-bottom: 8rem;
+}
+
+.btn:hover{
+   background-color:#d9b277;
+   color: #fff;
+}
+
+.btn:visited{
+    background-color:#824747;
+    color:#fff;
+}
+
+.centerBtn{
+    background-color:#d9b277;
+    color: #fff;
+}
+
+.centerBtn:hover{
+    background-color:#d97777;
+    color:#fff;
+}
+
+#dataOne,
+#dataTwo,
+#dataThree {
+    margin-top: 0;
+}
