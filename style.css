@@ -7,22 +7,21 @@ background-color for headings
 }
 
 .navbar-brand{
-    margin-left: 2.5rem;
     color:#d97777;
     font-size: 1.5rem;
 }
 
-.nav-link, 
+.navColor, 
 .text-color {
     color:#d97777;
 }
 
-.nav-link:hover,
+.navColor:hover,
 .navbar-brand:hover{
     color:#d9b277;
 }
 
-.nav-link:visited,
+.navColor:visited,
 .navbar-brand:visited{
     color:#824747;
 }
@@ -33,12 +32,12 @@ background-color for headings
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        min-height: 80vh;
-        min-width: 80vw;
-        padding: 14rem;
+        min-height: 20vh;
+        min-width: 20vw;
+        padding: 22%;
         position: relative;
-        opacity:0.92;
-        object-fit: contain;
+        
+        
     }
 
     .hero-text{
@@ -48,7 +47,7 @@ background-color for headings
         
         }
     .heroTextH1 {
-        font-size: 6rem;
+        font-size: 5.5rem;
     }
 
 
