@@ -32,7 +32,6 @@ background-color for headings
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
-        min-height: 20vh;
         min-width: 20vw;
         padding: 22%;
         position: relative;
@@ -76,7 +75,7 @@ background-color for headings
 
 .social-media-icons{
     color:#d9b277;
-    font-size:5rem;
+    font-size:4rem;
     
 
 }
